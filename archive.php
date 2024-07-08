@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package astronauta
+ * @package Ramsay-Dev-Test
  */
 
 get_header();
